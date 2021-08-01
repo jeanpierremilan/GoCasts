@@ -1,0 +1,7 @@
+{
+    "go.alternateTools": {
+        "go": "go",
+        "gopkgs": "gopkgs",
+        "gopls": "gopls"
+    }
+}
